@@ -1,0 +1,283 @@
+﻿piece,code,language,text
+Greeting,,English,"Dear Valued Merchant,"
+"Opener, idle 7 days or less",,English,Thank you for trusting us and starting your setup with Razorpay.
+"Opener, idle 8 to 30 days",,English,Your Razorpay setup is still waiting for you.
+"Opener, idle 31 days or more",,English,We are here whenever you are ready to finish your Razorpay setup.
+"Steps line, one step left",,English,You are just one step away from completing it.
+"Steps line, two steps left",,English,You are just two steps away from completing it.
+"Steps line, three steps left",,English,You are just three steps away from completing it.
+"Steps line, four steps left",,English,You are just a few steps away from completing it.
+Empathy line (stuck merchants),,English,We are sorry this has taken some effort.
+"Fix label, choose one",,English,Here's how you can fix it (choose one):
+"Fix label, steps to do",,English,Here's how you can fix it:
+"Fix label, abandoned",,English,Here are your next steps:
+Why it matters,,English,This is needed before you can start accepting payments.
+Link line,,English,Continue here: [resume link]
+Help line (WhatsApp),,English,"For assistance, reply ""HELP"" to this message. Our team will be happy to help you."
+Help line (email),,English,"For assistance, reply to this email. Our team will be happy to help you."
+Opt-out line (WhatsApp),,English,"Reply ""STOP"" to stop these messages."
+Sign-off (email),,English,Razorpay Onboarding Team
+"Email subject, Day 0",,English,Your Razorpay setup: here is how to continue
+"Email subject, Day 3",,English,A reminder about your Razorpay setup
+"Email subject, Day 7",,English,Need help with your Razorpay setup?
+"Email subject, closure or holding note",,English,Your Razorpay application
+Problem,R01,English,The name on your PAN card does not match the business name in your application.
+Problem,R02,English,"We could not validate your GST details. The GSTIN may be wrong, inactive, or linked to a different legal name or address."
+Problem,R03,English,The name on your bank account does not match your business or PAN name.
+Problem,R04,English,We could not verify your bank account with the small test credit.
+Problem,R05,English,"We could not read your document. It may be blurred, cropped or password-protected."
+Problem,R06,English,Your website or app is missing some required pages.
+Problem,R07,English,"We could not review your website. It is not live, or it needs a login to see products and prices."
+Problem,R08,English,"Your address proof is missing, out of date, or shows a different address from your application."
+Problem,R09,English,"The ID of your authorised signatory or director is missing, or its details do not match your application."
+Problem,R11,English,The business category you selected is different from what your website sells.
+Problem,R13,English,You stopped at the {step} step.
+Fix,R01,English,"Please upload the PAN of the business (or of the owner, for a proprietorship) that matches your application. Or correct the business name to match your PAN."
+Fix,R02,English,Please enter the correct GSTIN. Or upload a current GST certificate that matches your legal name and address.
+Fix,R03,English,Please use a current account in the business name (the owner's name for a proprietorship). Or upload a bank letter or cancelled cheque that shows the matching name.
+Fix,R04,English,Please re-enter the account number and IFSC carefully. Also check that the account is active and can receive credits.
+Fix,R05,English,"Please upload a clear, full-page colour scan in PDF, JPG or PNG under 5 MB."
+Fix,R06,English,"Please add these pages with working links: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy and Contact details. Then submit your website link again."
+Fix,R07,English,"Please make the website open to everyone, with products, prices and contact details visible. Then submit it again."
+Fix,R08,English,"Please upload a recent utility bill, rent agreement or other valid address proof. It should match the address in your application."
+Fix,R09,English,Please upload a valid ID of the authorised signatory. Make sure the name and date of birth match your application.
+Fix,R11,English,"Please select the correct category. Or share a short note with evidence explaining your business model, for a second review."
+Fix,R13,English,You can pick up from where you left off using the link below.
+R10 closure,R10,English,"Dear Valued Merchant, thank you for applying to Razorpay, and for the time you spent on your application. After review, we are sorry to say that we are unable to support this type of business, so we have closed your application. We truly appreciate your interest in Razorpay, and we wish you the very best for your business."
+"R12 holding note, Day 0",R12,English,"Dear Valued Merchant, thank you for applying to Razorpay. Your application is currently under review, and we have not forgotten about you. No action is needed from you at this time."
+"R12 holding note, Day 7",R12,English,"Dear Valued Merchant, thank you for your patience. Your Razorpay application is still under review. No action is needed from you at this time."
+Greeting,,Hinglish,"Dear Valued Merchant,"
+"Opener, idle 7 days or less",,Hinglish,Hum par bharosa karke Razorpay ke saath application shuru karne ke liye dhanyavaad.
+"Opener, idle 8 to 30 days",,Hinglish,Aapki Razorpay application abhi bhi aapka intezaar kar rahi hai.
+"Opener, idle 31 days or more",,Hinglish,"Jab aap taiyaar hon, hum aapki Razorpay application poori karne mein madad karenge."
+"Steps line, one step left",,Hinglish,Aap application poori karne se bas ek step door hain.
+"Steps line, two steps left",,Hinglish,Aap application poori karne se bas do steps door hain.
+"Steps line, three steps left",,Hinglish,Aap application poori karne se bas teen steps door hain.
+"Steps line, four steps left",,Hinglish,Aap application poori karne se bas kuch steps door hain.
+Empathy line (stuck merchants),,Hinglish,Hume khed hai ki ismein aapko itni mehnat lagi.
+"Fix label, choose one",,Hinglish,Aap ise aise theek kar sakte hain (koi ek chunein):
+"Fix label, steps to do",,Hinglish,Aap ise aise theek kar sakte hain:
+"Fix label, abandoned",,Hinglish,Aapke agle steps:
+Why it matters,,Hinglish,Payments lena shuru karne se pehle ise theek karna zaroori hai.
+Link line,,Hinglish,Yahan se continue karein: [resume link]
+Help line (WhatsApp),,Hinglish,"Madad ke liye is message ka reply ""HELP"" likhkar karein. Hamari team khushi se aapki madad karegi."
+Help line (email),,Hinglish,Madad ke liye is email ka reply karein. Hamari team khushi se aapki madad karegi.
+Opt-out line (WhatsApp),,Hinglish,"In messages ko rokne ke liye ""STOP"" likhkar reply karein."
+Sign-off (email),,Hinglish,Razorpay Onboarding Team
+"Email subject, Day 0",,Hinglish,Aapki Razorpay application: agla step
+"Email subject, Day 3",,Hinglish,Aapki Razorpay application ka reminder
+"Email subject, Day 7",,Hinglish,Razorpay application mein madad chahiye?
+"Email subject, closure or holding note",,Hinglish,Aapki Razorpay application
+Problem,R01,Hinglish,Aapke PAN card ka naam application ke business naam se match nahi karta.
+Problem,R02,Hinglish,"Hum aapki GST details verify nahi kar paaye. GSTIN galat, inactive, ya kisi aur legal naam ya address se juda ho sakta hai."
+Problem,R03,Hinglish,Aapke bank account ka naam business ya PAN ke naam se match nahi kar raha.
+Problem,R04,Hinglish,Hum chhote test credit se aapka bank account verify nahi kar paaye.
+Problem,R05,Hinglish,"Hum aapka document padh nahi paaye. Wo blur, cropped ya password-protected ho sakta hai."
+Problem,R06,Hinglish,Aapki website ya app mein kuch zaroori pages nahi hain.
+Problem,R07,Hinglish,"Hum aapki website review nahi kar paaye. Wo live nahi hai, ya products aur prices dekhne ke liye login maangti hai."
+Problem,R08,Hinglish,"Aapka address proof nahi mila, purana hai, ya application ke address se alag address dikha raha hai."
+Problem,R09,Hinglish,"Aapke authorised signatory ya director ka ID nahi mila, ya uski details application se match nahi karti."
+Problem,R11,Hinglish,Aapne jo business category chuni hai wo aapki website par bik rahe samaan se alag hai.
+Problem,R13,Hinglish,Aap {step} step par ruk gaye the.
+Fix,R01,Hinglish,"Kripya wo PAN upload karein jiska naam application se match karta ho (business ka PAN, ya proprietorship mein owner ka). Ya business ka naam PAN ke hisaab se theek karein."
+Fix,R02,Hinglish,Kripya sahi GSTIN daalein. Ya aisa current GST certificate upload karein jo aapke legal naam aur address se match karta ho.
+Fix,R03,Hinglish,Kripya business ke naam ka current account use karein (proprietorship mein owner ke naam ka). Ya bank letter ya cancelled cheque upload karein jisme sahi naam dikh raha ho.
+Fix,R04,Hinglish,Kripya account number aur IFSC dhyan se dobara daalein. Saath hi check karein ki account active hai aur usme paise aa sakte hain.
+Fix,R05,Hinglish,"Kripya saaf, poore page ka colour scan PDF, JPG ya PNG mein upload karein, 5 MB se chhota."
+Fix,R06,Hinglish,"Kripya ye pages working links ke saath jodein: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy aur Contact details. Phir website ka link dobara submit karein."
+Fix,R07,Hinglish,"Kripya website ko sabke liye khula rakhein, jisme products, prices aur contact details dikhein. Phir dobara submit karein."
+Fix,R08,Hinglish,"Kripya haal ka utility bill, rent agreement ya koi aur valid address proof upload karein. Wo application ke address se match hona chahiye."
+Fix,R09,Hinglish,Kripya authorised signatory ka valid ID upload karein. Dhyan rakhein ki naam aur date of birth application se match hon.
+Fix,R11,Hinglish,"Kripya sahi category chunein. Ya apne business model ka chhota note aur proof share karein, taaki dobara review ho sake."
+Fix,R13,Hinglish,Neeche diye link se aap wahin se aage badh sakte hain.
+R10 closure,R10,Hinglish,"Dear Valued Merchant, Razorpay mein apply karne ke liye aur apni application par samay dene ke liye dhanyavaad. Review ke baad hume afsos hai ki hum is type ke business ko support nahi kar sakte, isliye humne aapki application band kar di hai. Razorpay mein aapki ruchi ke liye hum sachmuch aabhari hain, aur aapke business ke liye hamari shubhkamnayein."
+"R12 holding note, Day 0",R12,Hinglish,"Dear Valued Merchant, Razorpay mein apply karne ke liye dhanyavaad. Aapki application abhi review mein hai, aur hum aapko bhoole nahi hain. Abhi aapko koi action lene ki zaroorat nahi hai."
+"R12 holding note, Day 7",R12,Hinglish,"Dear Valued Merchant, aapke sabr ke liye dhanyavaad. Aapki Razorpay application abhi bhi review mein hai. Abhi aapko koi action lene ki zaroorat nahi hai."
+Greeting,,Hindi,"आदरणीय व्यापारी,"
+"Opener, idle 7 days or less",,Hindi,हम पर भरोसा करके Razorpay के साथ अपना आवेदन शुरू करने के लिए धन्यवाद।
+"Opener, idle 8 to 30 days",,Hindi,आपका Razorpay आवेदन अभी भी आपका इंतज़ार कर रहा है।
+"Opener, idle 31 days or more",,Hindi,"जब भी आप अपना Razorpay आवेदन पूरा करना चाहें, हम मदद के लिए यहाँ हैं।"
+"Steps line, one step left",,Hindi,आप आवेदन पूरा करने से बस एक कदम दूर हैं।
+"Steps line, two steps left",,Hindi,आप आवेदन पूरा करने से बस दो कदम दूर हैं।
+"Steps line, three steps left",,Hindi,आप आवेदन पूरा करने से बस तीन कदम दूर हैं।
+"Steps line, four steps left",,Hindi,आप आवेदन पूरा करने से बस कुछ ही कदम दूर हैं।
+Empathy line (stuck merchants),,Hindi,हमें खेद है कि इसमें आपको काफ़ी मेहनत करनी पड़ी।
+"Fix label, choose one",,Hindi,आप इसे इस तरह ठीक कर सकते हैं (कोई एक चुनें):
+"Fix label, steps to do",,Hindi,आप इसे इस तरह ठीक कर सकते हैं:
+"Fix label, abandoned",,Hindi,आपके अगले कदम:
+Why it matters,,Hindi,पेमेंट लेना शुरू करने से पहले इसे ठीक करना ज़रूरी है।
+Link line,,Hindi,यहाँ से जारी रखें: [resume link]
+Help line (WhatsApp),,Hindi,"सहायता के लिए इस संदेश के जवाब में ""HELP"" लिखें। हमारी टीम खुशी से आपकी मदद करेगी।"
+Help line (email),,Hindi,सहायता के लिए इस ईमेल का जवाब दें। हमारी टीम खुशी से आपकी मदद करेगी।
+Opt-out line (WhatsApp),,Hindi,"इन संदेशों को रोकने के लिए ""STOP"" लिखकर जवाब दें।"
+Sign-off (email),,Hindi,Razorpay ऑनबोर्डिंग टीम
+"Email subject, Day 0",,Hindi,आपका Razorpay आवेदन: अगला कदम
+"Email subject, Day 3",,Hindi,आपके Razorpay आवेदन के बारे में रिमाइंडर
+"Email subject, Day 7",,Hindi,Razorpay आवेदन में मदद चाहिए?
+"Email subject, closure or holding note",,Hindi,आपका Razorpay आवेदन
+Problem,R01,Hindi,"आपके PAN कार्ड पर जो नाम है, वह आवेदन में दिए गए बिज़नेस के नाम से मेल नहीं खाता।"
+Problem,R02,Hindi,"हम आपकी GST जानकारी सत्यापित नहीं कर पाए। GSTIN गलत, निष्क्रिय, या किसी और कानूनी नाम या पते से जुड़ा हो सकता है।"
+Problem,R03,Hindi,आपके बैंक खाते का नाम बिज़नेस या PAN के नाम से मेल नहीं खा रहा।
+Problem,R04,Hindi,हम छोटे टेस्ट क्रेडिट से आपका बैंक खाता सत्यापित नहीं कर पाए।
+Problem,R05,Hindi,"हम आपका दस्तावेज़ पढ़ नहीं पाए। वह धुंधला, कटा हुआ या पासवर्ड वाला हो सकता है।"
+Problem,R06,Hindi,आपकी वेबसाइट या ऐप में कुछ ज़रूरी पेज नहीं हैं।
+Problem,R07,Hindi,"हम आपकी वेबसाइट की समीक्षा नहीं कर पाए। वह चालू नहीं है, या प्रोडक्ट और कीमतें देखने के लिए लॉगिन माँगती है।"
+Problem,R08,Hindi,"आपका पते का प्रमाण नहीं मिला, पुराना है, या आवेदन के पते से अलग पता दिखा रहा है।"
+Problem,R09,Hindi,"आपके अधिकृत हस्ताक्षरकर्ता या डायरेक्टर का पहचान पत्र नहीं मिला, या उसकी जानकारी आवेदन से मेल नहीं खाती।"
+Problem,R11,Hindi,आपने जो बिज़नेस श्रेणी चुनी है वह आपकी वेबसाइट पर बिकने वाली चीज़ों से अलग है।
+Problem,R13,Hindi,आप {step} चरण पर रुक गए थे।
+Fix,R01,Hindi,"कृपया वह PAN अपलोड करें जिसका नाम आवेदन से मेल खाता हो (बिज़नेस का PAN, या प्रोप्राइटरशिप हो तो मालिक का PAN)। या बिज़नेस का नाम PAN के अनुसार ठीक कर दें।"
+Fix,R02,Hindi,कृपया सही GSTIN दर्ज करें। या ऐसा वर्तमान GST प्रमाणपत्र अपलोड करें जो आपके कानूनी नाम और पते से मेल खाता हो।
+Fix,R03,Hindi,कृपया बिज़नेस के नाम का करंट अकाउंट इस्तेमाल करें (प्रोप्राइटरशिप में मालिक के नाम का)। या बैंक पत्र या कैंसल्ड चेक अपलोड करें जिसमें सही नाम दिख रहा हो।
+Fix,R04,Hindi,कृपया खाता संख्या और IFSC ध्यान से दोबारा दर्ज करें। साथ ही जाँच लें कि खाता चालू है और उसमें पैसे आ सकते हैं।
+Fix,R05,Hindi,"कृपया साफ़, पूरे पन्ने का रंगीन स्कैन PDF, JPG या PNG में अपलोड करें, 5 MB से छोटा।"
+Fix,R06,Hindi,"कृपया ये पेज चालू लिंक के साथ जोड़ें: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy और संपर्क जानकारी। फिर वेबसाइट का लिंक दोबारा जमा करें।"
+Fix,R07,Hindi,"कृपया वेबसाइट को सबके लिए खुला रखें, जिसमें प्रोडक्ट, कीमतें और संपर्क जानकारी दिखें। फिर दोबारा जमा करें।"
+Fix,R08,Hindi,"कृपया हाल का बिजली या पानी का बिल, किराया समझौता या कोई और मान्य पते का प्रमाण अपलोड करें। वह आवेदन के पते से मेल खाना चाहिए।"
+Fix,R09,Hindi,कृपया अधिकृत हस्ताक्षरकर्ता का मान्य पहचान पत्र अपलोड करें। ध्यान रखें कि नाम और जन्मतिथि आवेदन से मेल खाएँ।
+Fix,R11,Hindi,"कृपया सही श्रेणी चुनें। या अपने बिज़नेस मॉडल पर एक छोटा नोट और सबूत साझा करें, ताकि दोबारा समीक्षा हो सके।"
+Fix,R13,Hindi,नीचे दिए लिंक से आप वहीं से आगे बढ़ सकते हैं।
+R10 closure,R10,Hindi,"आदरणीय व्यापारी, Razorpay में आवेदन करने और अपने आवेदन पर समय देने के लिए धन्यवाद। समीक्षा के बाद हमें खेद है कि हम इस प्रकार के बिज़नेस को सपोर्ट नहीं कर सकते, इसलिए हमने आपका आवेदन बंद कर दिया है। Razorpay में आपकी रुचि के लिए हम सचमुच आभारी हैं, और आपके बिज़नेस के लिए हमारी हार्दिक शुभकामनाएँ।"
+"R12 holding note, Day 0",R12,Hindi,"आदरणीय व्यापारी, Razorpay में आवेदन करने के लिए धन्यवाद। आपका आवेदन अभी समीक्षा में है, और हम आपको भूले नहीं हैं। अभी आपको कोई कार्रवाई करने की ज़रूरत नहीं है।"
+"R12 holding note, Day 7",R12,Hindi,"आदरणीय व्यापारी, आपके धैर्य के लिए धन्यवाद। आपका Razorpay आवेदन अभी भी समीक्षा में है। अभी आपको कोई कार्रवाई करने की ज़रूरत नहीं है।"
+Greeting,,Marathi,"आदरणीय व्यापारी,"
+"Opener, idle 7 days or less",,Marathi,आमच्यावर विश्वास ठेवून Razorpay सोबत तुमचा अर्ज सुरू केल्याबद्दल धन्यवाद.
+"Opener, idle 8 to 30 days",,Marathi,तुमचा Razorpay अर्ज अजूनही तुमची वाट पाहत आहे.
+"Opener, idle 31 days or more",,Marathi,"तुम्ही जेव्हा तुमचा Razorpay अर्ज पूर्ण करायला तयार असाल, तेव्हा आम्ही मदतीसाठी इथे आहोत."
+"Steps line, one step left",,Marathi,तुम्ही अर्ज पूर्ण करण्यापासून फक्त एक पाऊल दूर आहात.
+"Steps line, two steps left",,Marathi,तुम्ही अर्ज पूर्ण करण्यापासून फक्त दोन पावले दूर आहात.
+"Steps line, three steps left",,Marathi,तुम्ही अर्ज पूर्ण करण्यापासून फक्त तीन पावले दूर आहात.
+"Steps line, four steps left",,Marathi,तुम्ही अर्ज पूर्ण करण्यापासून फक्त काही पावले दूर आहात.
+Empathy line (stuck merchants),,Marathi,"यासाठी तुम्हाला खूप मेहनत करावी लागली, याबद्दल आम्हाला खेद वाटतो."
+"Fix label, choose one",,Marathi,तुम्ही हे असे दुरुस्त करू शकता (कोणताही एक निवडा):
+"Fix label, steps to do",,Marathi,तुम्ही हे असे दुरुस्त करू शकता:
+"Fix label, abandoned",,Marathi,तुमची पुढील पावले:
+Why it matters,,Marathi,पेमेंट घेणे सुरू करण्यापूर्वी हे ठीक करणे आवश्यक आहे.
+Link line,,Marathi,इथून पुढे सुरू ठेवा: [resume link]
+Help line (WhatsApp),,Marathi,"मदतीसाठी या संदेशाला ""HELP"" असे उत्तर द्या. आमची टीम आनंदाने तुमची मदत करेल."
+Help line (email),,Marathi,मदतीसाठी या ईमेलला उत्तर द्या. आमची टीम आनंदाने तुमची मदत करेल.
+Opt-out line (WhatsApp),,Marathi,"हे संदेश थांबवण्यासाठी ""STOP"" असे उत्तर द्या."
+Sign-off (email),,Marathi,Razorpay ऑनबोर्डिंग टीम
+"Email subject, Day 0",,Marathi,तुमचा Razorpay अर्ज: पुढची पायरी
+"Email subject, Day 3",,Marathi,तुमच्या Razorpay अर्जाबद्दल एक आठवण
+"Email subject, Day 7",,Marathi,Razorpay अर्जासाठी मदत हवी आहे का?
+"Email subject, closure or holding note",,Marathi,तुमचा Razorpay अर्ज
+Problem,R01,Marathi,तुमच्या PAN कार्डवरील नाव अर्जात दिलेल्या व्यवसायाच्या नावाशी जुळत नाही.
+Problem,R02,Marathi,"आम्ही तुमची GST माहिती पडताळू शकलो नाही. GSTIN चुकीचा, निष्क्रिय किंवा दुसऱ्या कायदेशीर नावाशी किंवा पत्त्याशी जोडलेला असू शकतो."
+Problem,R03,Marathi,तुमच्या बँक खात्यावरील नाव व्यवसायाच्या किंवा PAN वरील नावाशी जुळत नाही.
+Problem,R04,Marathi,आम्ही छोट्या चाचणी रकमेद्वारे तुमचे बँक खाते पडताळू शकलो नाही.
+Problem,R05,Marathi,"आम्ही तुमचे कागदपत्र वाचू शकलो नाही. ते अस्पष्ट, कापलेले किंवा पासवर्ड असलेले असू शकते."
+Problem,R06,Marathi,तुमच्या वेबसाइट किंवा अॅपमध्ये काही आवश्यक पाने नाहीत.
+Problem,R07,Marathi,"आम्ही तुमच्या वेबसाइटचे पुनरावलोकन करू शकलो नाही. ती सुरू नाही, किंवा उत्पादने आणि किमती पाहण्यासाठी लॉगिन मागते."
+Problem,R08,Marathi,"तुमचा पत्त्याचा पुरावा सापडला नाही, जुना आहे, किंवा अर्जातील पत्त्यापेक्षा वेगळा पत्ता दाखवतो."
+Problem,R09,Marathi,"तुमच्या अधिकृत स्वाक्षरीकर्त्याचे किंवा संचालकाचे ओळखपत्र सापडले नाही, किंवा त्यातील माहिती अर्जाशी जुळत नाही."
+Problem,R11,Marathi,तुम्ही निवडलेली व्यवसाय श्रेणी तुमच्या वेबसाइटवर विकल्या जाणाऱ्या गोष्टींपेक्षा वेगळी आहे.
+Problem,R13,Marathi,तुम्ही {step} टप्प्यावर थांबला होता.
+Fix,R01,Marathi,"कृपया अर्जाच्या नावाशी जुळणारे PAN अपलोड करा (व्यवसायाचे PAN, किंवा प्रोप्रायटरशिप असल्यास मालकाचे PAN). किंवा व्यवसायाचे नाव PAN नुसार दुरुस्त करा."
+Fix,R02,Marathi,कृपया योग्य GSTIN टाका. किंवा तुमच्या कायदेशीर नावाशी आणि पत्त्याशी जुळणारे चालू GST प्रमाणपत्र अपलोड करा.
+Fix,R03,Marathi,कृपया व्यवसायाच्या नावाचे करंट अकाउंट वापरा (प्रोप्रायटरशिपमध्ये मालकाच्या नावाचे). किंवा योग्य नाव दिसणारे बँक पत्र किंवा रद्द केलेला चेक अपलोड करा.
+Fix,R04,Marathi,कृपया खाते क्रमांक आणि IFSC काळजीपूर्वक पुन्हा टाका. तसेच खाते सुरू असून त्यात पैसे जमा होऊ शकतात याची खात्री करा.
+Fix,R05,Marathi,"कृपया स्पष्ट, पूर्ण पानाचे रंगीत स्कॅन PDF, JPG किंवा PNG मध्ये अपलोड करा, 5 MB पेक्षा लहान."
+Fix,R06,Marathi,"कृपया ही पाने चालू लिंकसह जोडा: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy आणि संपर्क माहिती. मग वेबसाइटची लिंक पुन्हा सादर करा."
+Fix,R07,Marathi,"कृपया वेबसाइट सर्वांसाठी खुली ठेवा, ज्यात उत्पादने, किमती आणि संपर्क माहिती दिसेल. मग पुन्हा सादर करा."
+Fix,R08,Marathi,"कृपया अलीकडचे वीज बिल, भाडे करार किंवा इतर वैध पत्त्याचा पुरावा अपलोड करा. तो अर्जातील पत्त्याशी जुळला पाहिजे."
+Fix,R09,Marathi,कृपया अधिकृत स्वाक्षरीकर्त्याचे वैध ओळखपत्र अपलोड करा. नाव व जन्मतारीख अर्जाशी जुळतील याची खात्री करा.
+Fix,R11,Marathi,"कृपया योग्य श्रेणी निवडा. किंवा तुमच्या व्यवसाय मॉडेलबद्दल छोटी नोंद आणि पुरावा द्या, म्हणजे पुन्हा पुनरावलोकन करता येईल."
+Fix,R13,Marathi,खालील लिंकवरून तुम्ही तिथूनच पुढे जाऊ शकता.
+R10 closure,R10,Marathi,"आदरणीय व्यापारी, Razorpay मध्ये अर्ज केल्याबद्दल आणि तुमच्या अर्जासाठी वेळ दिल्याबद्दल धन्यवाद. पुनरावलोकनानंतर, आम्हाला खेद वाटतो की आम्ही या प्रकारच्या व्यवसायाला समर्थन देऊ शकत नाही, त्यामुळे आम्ही तुमचा अर्ज बंद केला आहे. Razorpay मधील तुमच्या आवडीबद्दल आम्ही खरोखर आभारी आहोत, आणि तुमच्या व्यवसायासाठी आमच्या मनःपूर्वक शुभेच्छा."
+"R12 holding note, Day 0",R12,Marathi,"आदरणीय व्यापारी, Razorpay मध्ये अर्ज केल्याबद्दल धन्यवाद. तुमचा अर्ज सध्या पुनरावलोकनाखाली आहे, आणि आम्ही तुम्हाला विसरलेलो नाही. सध्या तुम्हाला कोणतीही कृती करण्याची गरज नाही."
+"R12 holding note, Day 7",R12,Marathi,"आदरणीय व्यापारी, तुमच्या संयमाबद्दल धन्यवाद. तुमचा Razorpay अर्ज अजूनही पुनरावलोकनाखाली आहे. सध्या तुम्हाला कोणतीही कृती करण्याची गरज नाही."
+Greeting,,Tamil,"மதிப்பிற்குரிய வணிகரே,"
+"Opener, idle 7 days or less",,Tamil,எங்களை நம்பி Razorpay உடன் உங்கள் விண்ணப்பத்தைத் தொடங்கியதற்கு நன்றி.
+"Opener, idle 8 to 30 days",,Tamil,உங்கள் Razorpay விண்ணப்பம் இன்னும் உங்களுக்காகக் காத்திருக்கிறது.
+"Opener, idle 31 days or more",,Tamil,நீங்கள் தயாரானதும் உங்கள் Razorpay விண்ணப்பத்தை முடிக்க நாங்கள் உதவுவோம்.
+"Steps line, one step left",,Tamil,உங்கள் விண்ணப்பத்தை முடிக்க இன்னும் ஒரு படி மட்டுமே உள்ளது.
+"Steps line, two steps left",,Tamil,உங்கள் விண்ணப்பத்தை முடிக்க இன்னும் இரண்டு படிகள் மட்டுமே உள்ளன.
+"Steps line, three steps left",,Tamil,உங்கள் விண்ணப்பத்தை முடிக்க இன்னும் மூன்று படிகள் மட்டுமே உள்ளன.
+"Steps line, four steps left",,Tamil,உங்கள் விண்ணப்பத்தை முடிக்க இன்னும் சில படிகள் மட்டுமே உள்ளன.
+Empathy line (stuck merchants),,Tamil,இதற்கு நீங்கள் நிறைய முயற்சி செய்ததற்கு வருந்துகிறோம்.
+"Fix label, choose one",,Tamil,இதை இப்படிச் சரிசெய்யலாம் (ஏதாவது ஒன்றைத் தேர்ந்தெடுக்கவும்):
+"Fix label, steps to do",,Tamil,இதை இப்படிச் சரிசெய்யலாம்:
+"Fix label, abandoned",,Tamil,உங்கள் அடுத்த படிகள்:
+Why it matters,,Tamil,பணம் பெறத் தொடங்குவதற்கு முன் இதைச் சரிசெய்வது அவசியம்.
+Link line,,Tamil,இங்கிருந்து தொடருங்கள்: [resume link]
+Help line (WhatsApp),,Tamil,"உதவிக்கு, இந்தச் செய்திக்கு ""HELP"" என்று பதிலளிக்கவும். எங்கள் குழு மகிழ்ச்சியுடன் உங்களுக்கு உதவும்."
+Help line (email),,Tamil,"உதவிக்கு, இந்த மின்னஞ்சலுக்குப் பதிலளிக்கவும். எங்கள் குழு மகிழ்ச்சியுடன் உங்களுக்கு உதவும்."
+Opt-out line (WhatsApp),,Tamil,"இந்தச் செய்திகளை நிறுத்த ""STOP"" என்று பதிலளிக்கவும்."
+Sign-off (email),,Tamil,Razorpay ஆன்போர்டிங் குழு
+"Email subject, Day 0",,Tamil,உங்கள் Razorpay விண்ணப்பம்: அடுத்த படி
+"Email subject, Day 3",,Tamil,உங்கள் Razorpay விண்ணப்பம் குறித்த நினைவூட்டல்
+"Email subject, Day 7",,Tamil,Razorpay விண்ணப்பத்திற்கு உதவி வேண்டுமா?
+"Email subject, closure or holding note",,Tamil,உங்கள் Razorpay விண்ணப்பம்
+Problem,R01,Tamil,"உங்கள் PAN அட்டையில் உள்ள பெயர், விண்ணப்பத்தில் கொடுத்த வணிகப் பெயருடன் பொருந்தவில்லை."
+Problem,R02,Tamil,"உங்கள் GST விவரங்களை எங்களால் சரிபார்க்க முடியவில்லை. GSTIN தவறாக, செயலற்றதாக அல்லது வேறு பெயர் அல்லது முகவரியுடன் இணைந்ததாக இருக்கலாம்."
+Problem,R03,Tamil,"உங்கள் வங்கிக் கணக்கில் உள்ள பெயர், வணிகம் அல்லது PAN பெயருடன் பொருந்தவில்லை."
+Problem,R04,Tamil,சிறிய சோதனைப் பணப் பரிமாற்றம் மூலம் உங்கள் வங்கிக் கணக்கை எங்களால் சரிபார்க்க முடியவில்லை.
+Problem,R05,Tamil,"உங்கள் ஆவணத்தை எங்களால் படிக்க முடியவில்லை. அது மங்கலாக, வெட்டப்பட்டதாக அல்லது கடவுச்சொல் உள்ளதாக இருக்கலாம்."
+Problem,R06,Tamil,உங்கள் இணையதளம் அல்லது செயலியில் சில தேவையான பக்கங்கள் இல்லை.
+Problem,R07,Tamil,"இணையதளத்தை எங்களால் மதிப்பாய்வு செய்ய முடியவில்லை. அது இயங்கவில்லை, அல்லது பொருட்களைப் பார்க்க உள்நுழைவு கேட்கிறது."
+Problem,R08,Tamil,"உங்கள் முகவரிச் சான்று இல்லை, பழையது, அல்லது விண்ணப்பத்தில் உள்ள முகவரியிலிருந்து வேறுபடுகிறது."
+Problem,R09,Tamil,"கையொப்பதாரர் அல்லது இயக்குநரின் அடையாளச் சான்று இல்லை, அல்லது அதிலுள்ள விவரங்கள் விண்ணப்பத்துடன் பொருந்தவில்லை."
+Problem,R11,Tamil,"நீங்கள் தேர்ந்தெடுத்த வணிக வகை, உங்கள் இணையதளத்தில் விற்கப்படுவதிலிருந்து வேறுபடுகிறது."
+Problem,R13,Tamil,நீங்கள் {step} படியில் நிறுத்திவிட்டீர்கள்.
+Fix,R01,Tamil,"விண்ணப்பத்துடன் பொருந்தும் PAN ஐ பதிவேற்றவும் (வணிகத்தின் PAN, அல்லது தனியுரிமை நிறுவனமாக இருந்தால் உரிமையாளரின் PAN). அல்லது வணிகப் பெயரை PAN படி திருத்தவும்."
+Fix,R02,Tamil,"சரியான GSTIN ஐ உள்ளிடவும். அல்லது உங்கள் பெயர், முகவரியுடன் பொருந்தும் தற்போதைய GST சான்றிதழைப் பதிவேற்றவும்."
+Fix,R03,Tamil,வணிகப் பெயரில் உள்ள நடப்புக் கணக்கைப் பயன்படுத்தவும் (தனியுரிமை நிறுவனத்தில் உரிமையாளர் பெயரில்). அல்லது சரியான பெயருடன் வங்கிக் கடிதம் அல்லது ரத்து செய்த காசோலையைப் பதிவேற்றவும்.
+Fix,R04,Tamil,"கணக்கு எண் மற்றும் IFSC ஐ கவனமாக மீண்டும் உள்ளிடவும். மேலும் கணக்கு செயலில் உள்ளதா, பணம் வரவு வைக்க முடியுமா என்பதையும் சரிபார்க்கவும்."
+Fix,R05,Tamil,"தெளிவான, முழுப் பக்க வண்ண ஸ்கேனை PDF, JPG அல்லது PNG வடிவில், 5 MB க்கும் குறைவாகப் பதிவேற்றவும்."
+Fix,R06,Tamil,"இந்தப் பக்கங்களை வேலை செய்யும் இணைப்புகளுடன் சேர்க்கவும்: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy, தொடர்பு விவரங்கள். பின்னர் இணைப்பை மீண்டும் சமர்ப்பிக்கவும்."
+Fix,R07,Tamil,"இணையதளத்தை அனைவரும் பார்க்கும்படி திறந்து வைக்கவும்; பொருட்கள், விலைகள், தொடர்பு விவரங்கள் தெரிய வேண்டும். மீண்டும் சமர்ப்பிக்கவும்."
+Fix,R08,Tamil,"சமீபத்திய மின்கட்டண ரசீது, வாடகை ஒப்பந்தம் அல்லது வேறு செல்லுபடியாகும் முகவரிச் சான்றைப் பதிவேற்றவும். அது விண்ணப்ப முகவரியுடன் பொருந்த வேண்டும்."
+Fix,R09,Tamil,"கையொப்பதாரரின் செல்லுபடியாகும் அடையாளச் சான்றைப் பதிவேற்றவும். பெயர், பிறந்த தேதி விண்ணப்பத்துடன் பொருந்த வேண்டும்."
+Fix,R11,Tamil,"சரியான வகையைத் தேர்ந்தெடுக்கவும். அல்லது உங்கள் வணிக முறை குறித்த சிறு குறிப்பையும் ஆதாரத்தையும் பகிரவும், இரண்டாவது மதிப்பாய்வுக்காக."
+Fix,R13,Tamil,கீழே உள்ள இணைப்பின் மூலம் நீங்கள் நிறுத்திய இடத்திலிருந்தே தொடரலாம்.
+R10 closure,R10,Tamil,"மதிப்பிற்குரிய வணிகரே, Razorpay-ல் விண்ணப்பித்ததற்கும், உங்கள் விண்ணப்பத்திற்காக நேரம் செலவிட்டதற்கும் நன்றி. மதிப்பாய்வுக்குப் பிறகு, இந்த வகை வணிகத்தை எங்களால் ஆதரிக்க முடியாது என்பதற்கு வருந்துகிறோம், எனவே உங்கள் விண்ணப்பத்தை மூடியுள்ளோம். Razorpay மீதான உங்கள் ஆர்வத்திற்கு நாங்கள் உண்மையாக நன்றி கூறுகிறோம், உங்கள் வணிகம் சிறக்க வாழ்த்துகிறோம்."
+"R12 holding note, Day 0",R12,Tamil,"மதிப்பிற்குரிய வணிகரே, Razorpay-ல் விண்ணப்பித்ததற்கு நன்றி. உங்கள் விண்ணப்பம் தற்போது மதிப்பாய்வில் உள்ளது, உங்களை நாங்கள் மறக்கவில்லை. இப்போது நீங்கள் எதுவும் செய்ய வேண்டியதில்லை."
+"R12 holding note, Day 7",R12,Tamil,"மதிப்பிற்குரிய வணிகரே, உங்கள் பொறுமைக்கு நன்றி. உங்கள் Razorpay விண்ணப்பம் இன்னும் மதிப்பாய்வில் உள்ளது. இப்போது நீங்கள் எதுவும் செய்ய வேண்டியதில்லை."
+Greeting,,Kannada,"ಗೌರವಾನ್ವಿತ ವ್ಯಾಪಾರಿಗಳೇ,"
+"Opener, idle 7 days or less",,Kannada,ನಮ್ಮ ಮೇಲೆ ನಂಬಿಕೆ ಇಟ್ಟು Razorpay ಜೊತೆ ನಿಮ್ಮ ಅರ್ಜಿ ಆರಂಭಿಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು.
+"Opener, idle 8 to 30 days",,Kannada,ನಿಮ್ಮ Razorpay ಅರ್ಜಿ ಇನ್ನೂ ನಿಮಗಾಗಿ ಕಾಯುತ್ತಿದೆ.
+"Opener, idle 31 days or more",,Kannada,"ನಿಮ್ಮ Razorpay ಅರ್ಜಿಯನ್ನು ಪೂರ್ಣಗೊಳಿಸಲು ನೀವು ಸಿದ್ಧರಾದಾಗ, ನಾವು ಸಹಾಯಕ್ಕೆ ಇಲ್ಲಿದ್ದೇವೆ."
+"Steps line, one step left",,Kannada,ನಿಮ್ಮ ಅರ್ಜಿ ಪೂರ್ಣಗೊಳಿಸಲು ಇನ್ನು ಕೇವಲ ಒಂದು ಹಂತ ಬಾಕಿ ಇದೆ.
+"Steps line, two steps left",,Kannada,ನಿಮ್ಮ ಅರ್ಜಿ ಪೂರ್ಣಗೊಳಿಸಲು ಇನ್ನು ಕೇವಲ ಎರಡು ಹಂತಗಳು ಬಾಕಿ ಇವೆ.
+"Steps line, three steps left",,Kannada,ನಿಮ್ಮ ಅರ್ಜಿ ಪೂರ್ಣಗೊಳಿಸಲು ಇನ್ನು ಕೇವಲ ಮೂರು ಹಂತಗಳು ಬಾಕಿ ಇವೆ.
+"Steps line, four steps left",,Kannada,ನಿಮ್ಮ ಅರ್ಜಿ ಪೂರ್ಣಗೊಳಿಸಲು ಇನ್ನು ಕೆಲವು ಹಂತಗಳು ಬಾಕಿ ಇವೆ.
+Empathy line (stuck merchants),,Kannada,"ಇದಕ್ಕಾಗಿ ನೀವು ತುಂಬಾ ಶ್ರಮಪಡಬೇಕಾಯಿತು, ಅದಕ್ಕಾಗಿ ಕ್ಷಮಿಸಿ."
+"Fix label, choose one",,Kannada,ಇದನ್ನು ಹೀಗೆ ಸರಿಪಡಿಸಬಹುದು (ಯಾವುದಾದರೂ ಒಂದನ್ನು ಆಯ್ಕೆಮಾಡಿ):
+"Fix label, steps to do",,Kannada,ಇದನ್ನು ಹೀಗೆ ಸರಿಪಡಿಸಬಹುದು:
+"Fix label, abandoned",,Kannada,ನಿಮ್ಮ ಮುಂದಿನ ಹಂತಗಳು:
+Why it matters,,Kannada,ಪಾವತಿಗಳನ್ನು ಸ್ವೀಕರಿಸಲು ಪ್ರಾರಂಭಿಸುವ ಮೊದಲು ಇದನ್ನು ಸರಿಪಡಿಸುವುದು ಅಗತ್ಯ.
+Link line,,Kannada,ಇಲ್ಲಿಂದ ಮುಂದುವರಿಸಿ: [resume link]
+Help line (WhatsApp),,Kannada,"ಸಹಾಯಕ್ಕಾಗಿ ಈ ಸಂದೇಶಕ್ಕೆ ""HELP"" ಎಂದು ಉತ್ತರಿಸಿ. ನಮ್ಮ ತಂಡ ಸಂತೋಷದಿಂದ ನಿಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ."
+Help line (email),,Kannada,ಸಹಾಯಕ್ಕಾಗಿ ಈ ಇಮೇಲ್‌ಗೆ ಉತ್ತರಿಸಿ. ನಮ್ಮ ತಂಡ ಸಂತೋಷದಿಂದ ನಿಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ.
+Opt-out line (WhatsApp),,Kannada,"ಈ ಸಂದೇಶಗಳನ್ನು ನಿಲ್ಲಿಸಲು ""STOP"" ಎಂದು ಉತ್ತರಿಸಿ."
+Sign-off (email),,Kannada,Razorpay ಆನ್‌ಬೋರ್ಡಿಂಗ್ ತಂಡ
+"Email subject, Day 0",,Kannada,ನಿಮ್ಮ Razorpay ಅರ್ಜಿ: ಮುಂದಿನ ಹಂತ
+"Email subject, Day 3",,Kannada,ನಿಮ್ಮ Razorpay ಅರ್ಜಿಯ ಬಗ್ಗೆ ಜ್ಞಾಪನೆ
+"Email subject, Day 7",,Kannada,Razorpay ಅರ್ಜಿಗೆ ಸಹಾಯ ಬೇಕೇ?
+"Email subject, closure or holding note",,Kannada,ನಿಮ್ಮ Razorpay ಅರ್ಜಿ
+Problem,R01,Kannada,ನಿಮ್ಮ PAN ಕಾರ್ಡ್‌ನಲ್ಲಿರುವ ಹೆಸರು ಅರ್ಜಿಯಲ್ಲಿ ನೀಡಿದ ವ್ಯಾಪಾರದ ಹೆಸರಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
+Problem,R02,Kannada,"ನಿಮ್ಮ GST ವಿವರಗಳನ್ನು ನಾವು ಪರಿಶೀಲಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. GSTIN ತಪ್ಪಾಗಿರಬಹುದು, ನಿಷ್ಕ್ರಿಯವಾಗಿರಬಹುದು ಅಥವಾ ಬೇರೆ ಕಾನೂನುಬದ್ಧ ಹೆಸರು ಅಥವಾ ವಿಳಾಸಕ್ಕೆ ಸೇರಿರಬಹುದು."
+Problem,R03,Kannada,ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಯಲ್ಲಿರುವ ಹೆಸರು ವ್ಯಾಪಾರ ಅಥವಾ PAN ಹೆಸರಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ.
+Problem,R04,Kannada,ಸಣ್ಣ ಪರೀಕ್ಷಾ ಜಮಾ ಮೂಲಕ ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಖಾತೆಯನ್ನು ನಾವು ಪರಿಶೀಲಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.
+Problem,R05,Kannada,"ನಿಮ್ಮ ದಾಖಲೆಯನ್ನು ನಮಗೆ ಓದಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಅದು ಮಸುಕಾಗಿರಬಹುದು, ಕತ್ತರಿಸಲ್ಪಟ್ಟಿರಬಹುದು ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್ ಇರಬಹುದು."
+Problem,R06,Kannada,ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಅಥವಾ ಆ್ಯಪ್‌ನಲ್ಲಿ ಕೆಲವು ಅಗತ್ಯ ಪುಟಗಳು ಇಲ್ಲ.
+Problem,R07,Kannada,"ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್ ಅನ್ನು ನಮಗೆ ಪರಿಶೀಲಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ. ಅದು ಚಾಲ್ತಿಯಲ್ಲಿಲ್ಲ, ಅಥವಾ ಉತ್ಪನ್ನಗಳು ಮತ್ತು ಬೆಲೆಗಳನ್ನು ನೋಡಲು ಲಾಗಿನ್ ಕೇಳುತ್ತದೆ."
+Problem,R08,Kannada,"ನಿಮ್ಮ ವಿಳಾಸ ಪುರಾವೆ ಇಲ್ಲ, ಹಳೆಯದಾಗಿದೆ, ಅಥವಾ ಅರ್ಜಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕಿಂತ ಬೇರೆ ವಿಳಾಸ ತೋರಿಸುತ್ತಿದೆ."
+Problem,R09,Kannada,"ನಿಮ್ಮ ಅಧಿಕೃತ ಸಹಿದಾರ ಅಥವಾ ನಿರ್ದೇಶಕರ ಗುರುತಿನ ಚೀಟಿ ಇಲ್ಲ, ಅಥವಾ ಅದರ ವಿವರಗಳು ಅರ್ಜಿಗೆ ಹೊಂದಿಕೆಯಾಗುತ್ತಿಲ್ಲ."
+Problem,R11,Kannada,ನೀವು ಆಯ್ಕೆ ಮಾಡಿದ ವ್ಯಾಪಾರ ವರ್ಗ ನಿಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ನಲ್ಲಿ ಮಾರಾಟವಾಗುವುದಕ್ಕಿಂತ ಬೇರೆಯಾಗಿದೆ.
+Problem,R13,Kannada,ನೀವು {step} ಹಂತದಲ್ಲಿ ನಿಲ್ಲಿಸಿದ್ದೀರಿ.
+Fix,R01,Kannada,"ಅರ್ಜಿಗೆ ಹೊಂದುವ PAN ಅನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ (ವ್ಯಾಪಾರದ PAN, ಅಥವಾ ಏಕಮಾಲೀಕತ್ವವಾಗಿದ್ದರೆ ಮಾಲೀಕರ PAN). ಅಥವಾ ವ್ಯಾಪಾರದ ಹೆಸರನ್ನು PAN ಪ್ರಕಾರ ಸರಿಪಡಿಸಿ."
+Fix,R02,Kannada,ಸರಿಯಾದ GSTIN ನಮೂದಿಸಿ. ಅಥವಾ ನಿಮ್ಮ ಕಾನೂನುಬದ್ಧ ಹೆಸರು ಮತ್ತು ವಿಳಾಸಕ್ಕೆ ಹೊಂದುವ ಪ್ರಸ್ತುತ GST ಪ್ರಮಾಣಪತ್ರವನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.
+Fix,R03,Kannada,ವ್ಯಾಪಾರದ ಹೆಸರಿನ ಚಾಲ್ತಿ ಖಾತೆಯನ್ನು ಬಳಸಿ (ಏಕಮಾಲೀಕತ್ವದಲ್ಲಿ ಮಾಲೀಕರ ಹೆಸರಿನದು). ಅಥವಾ ಸರಿಯಾದ ಹೆಸರು ಕಾಣುವ ಬ್ಯಾಂಕ್ ಪತ್ರ ಅಥವಾ ರದ್ದುಗೊಳಿಸಿದ ಚೆಕ್ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ.
+Fix,R04,Kannada,"ಖಾತೆ ಸಂಖ್ಯೆ ಮತ್ತು IFSC ಅನ್ನು ಎಚ್ಚರಿಕೆಯಿಂದ ಮತ್ತೆ ನಮೂದಿಸಿ. ಜೊತೆಗೆ ಖಾತೆ ಸಕ್ರಿಯವಾಗಿದೆಯೇ, ಹಣ ಜಮಾ ಆಗಬಹುದೇ ಎಂದು ಪರಿಶೀಲಿಸಿ."
+Fix,R05,Kannada,"ಸ್ಪಷ್ಟವಾದ, ಪೂರ್ಣ ಪುಟದ ಬಣ್ಣದ ಸ್ಕ್ಯಾನ್ ಅನ್ನು PDF, JPG ಅಥವಾ PNG ರೂಪದಲ್ಲಿ, 5 MB ಗಿಂತ ಚಿಕ್ಕದಾಗಿ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ."
+Fix,R06,Kannada,"ಈ ಪುಟಗಳನ್ನು ಕೆಲಸ ಮಾಡುವ ಲಿಂಕ್‌ಗಳೊಂದಿಗೆ ಸೇರಿಸಿ: Terms & Conditions, Privacy Policy, Refund/Cancellation Policy ಮತ್ತು ಸಂಪರ್ಕ ವಿವರಗಳು. ನಂತರ ವೆಬ್‌ಸೈಟ್ ಲಿಂಕ್ ಅನ್ನು ಮತ್ತೆ ಸಲ್ಲಿಸಿ."
+Fix,R07,Kannada,"ವೆಬ್‌ಸೈಟ್ ಎಲ್ಲರಿಗೂ ತೆರೆದಿರುವಂತೆ ಮಾಡಿ, ಉತ್ಪನ್ನಗಳು, ಬೆಲೆಗಳು ಮತ್ತು ಸಂಪರ್ಕ ವಿವರಗಳು ಕಾಣಿಸಬೇಕು. ನಂತರ ಮತ್ತೆ ಸಲ್ಲಿಸಿ."
+Fix,R08,Kannada,"ಇತ್ತೀಚಿನ ವಿದ್ಯುತ್ ಬಿಲ್, ಬಾಡಿಗೆ ಒಪ್ಪಂದ ಅಥವಾ ಬೇರೆ ಮಾನ್ಯ ವಿಳಾಸ ಪುರಾವೆಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ. ಅದು ಅರ್ಜಿಯ ವಿಳಾಸಕ್ಕೆ ಹೊಂದಿಕೆಯಾಗಬೇಕು."
+Fix,R09,Kannada,ಅಧಿಕೃತ ಸಹಿದಾರರ ಮಾನ್ಯ ಗುರುತಿನ ಚೀಟಿಯನ್ನು ಅಪ್‌ಲೋಡ್ ಮಾಡಿ. ಹೆಸರು ಮತ್ತು ಜನ್ಮ ದಿನಾಂಕ ಅರ್ಜಿಗೆ ಹೊಂದಿಕೆಯಾಗುವಂತೆ ನೋಡಿಕೊಳ್ಳಿ.
+Fix,R11,Kannada,"ಸರಿಯಾದ ವರ್ಗವನ್ನು ಆಯ್ಕೆ ಮಾಡಿ. ಅಥವಾ ನಿಮ್ಮ ವ್ಯಾಪಾರ ಮಾದರಿಯ ಬಗ್ಗೆ ಸಣ್ಣ ಟಿಪ್ಪಣಿ ಮತ್ತು ಪುರಾವೆ ಹಂಚಿಕೊಳ್ಳಿ, ಎರಡನೇ ಪರಿಶೀಲನೆಗಾಗಿ."
+Fix,R13,Kannada,ಕೆಳಗಿನ ಲಿಂಕ್ ಮೂಲಕ ನೀವು ನಿಲ್ಲಿಸಿದ ಜಾಗದಿಂದಲೇ ಮುಂದುವರಿಸಬಹುದು.
+R10 closure,R10,Kannada,"ಗೌರವಾನ್ವಿತ ವ್ಯಾಪಾರಿಗಳೇ, Razorpay ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ್ದಕ್ಕೆ ಮತ್ತು ನಿಮ್ಮ ಅರ್ಜಿಗಾಗಿ ಸಮಯ ನೀಡಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ಪರಿಶೀಲನೆಯ ನಂತರ, ಈ ರೀತಿಯ ವ್ಯಾಪಾರವನ್ನು ಬೆಂಬಲಿಸಲು ನಮಗೆ ಸಾಧ್ಯವಿಲ್ಲ ಎಂದು ತಿಳಿಸಲು ಕ್ಷಮಿಸಿ, ಆದ್ದರಿಂದ ನಿಮ್ಮ ಅರ್ಜಿಯನ್ನು ಮುಚ್ಚಿದ್ದೇವೆ. Razorpay ಮೇಲಿನ ನಿಮ್ಮ ಆಸಕ್ತಿಗೆ ನಾವು ನಿಜವಾಗಿಯೂ ಕೃತಜ್ಞರು, ಮತ್ತು ನಿಮ್ಮ ವ್ಯಾಪಾರಕ್ಕೆ ಶುಭ ಹಾರೈಕೆಗಳು."
+"R12 holding note, Day 0",R12,Kannada,"ಗೌರವಾನ್ವಿತ ವ್ಯಾಪಾರಿಗಳೇ, Razorpay ಗೆ ಅರ್ಜಿ ಸಲ್ಲಿಸಿದ್ದಕ್ಕೆ ಧನ್ಯವಾದಗಳು. ನಿಮ್ಮ ಅರ್ಜಿ ಪ್ರಸ್ತುತ ಪರಿಶೀಲನೆಯಲ್ಲಿದೆ, ಮತ್ತು ನಾವು ನಿಮ್ಮನ್ನು ಮರೆತಿಲ್ಲ. ಈ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳುವ ಅಗತ್ಯವಿಲ್ಲ."
+"R12 holding note, Day 7",R12,Kannada,"ಗೌರವಾನ್ವಿತ ವ್ಯಾಪಾರಿಗಳೇ, ನಿಮ್ಮ ತಾಳ್ಮೆಗೆ ಧನ್ಯವಾದಗಳು. ನಿಮ್ಮ Razorpay ಅರ್ಜಿ ಇನ್ನೂ ಪರಿಶೀಲನೆಯಲ್ಲಿದೆ. ಈ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಕ್ರಮ ತೆಗೆದುಕೊಳ್ಳುವ ಅಗತ್ಯವಿಲ್ಲ."

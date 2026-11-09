@@ -1,0 +1,51 @@
+{
+ "n": 30,
+ "cause_ok": 30,
+ "route_ok": null,
+ "safety_ok": 8,
+ "safety_n": 8,
+ "misses": [],
+ "raw_cause_ok": 22,
+ "changed": [
+  {
+   "Application": "A3034",
+   "First label": "R04",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3044",
+   "First label": "R04",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3087",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3056",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3054",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3026",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3071",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  },
+  {
+   "Application": "A3052",
+   "First label": "Cannot tell",
+   "Changed to": "No reason recorded (abandoned)"
+  }
+ ]
+}

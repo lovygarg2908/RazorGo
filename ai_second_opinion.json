@@ -1,0 +1,10 @@
+{
+  "about": "Saved answers from the AI second opinion on blank-code reviewer text. Produced once by Claude (Anthropic) with the prompt below, at temperature 0, then saved so every run reads the same answers. The agent never calls an AI model while it runs.",
+  "prompt": "You classify a short onboarding reviewer note into one rejection code. Allowed answers: R01 PAN name does not match business name; R02 GST certificate invalid or mismatched; R03 Bank account name mismatch; R04 Bank verification failed; R05 Document unreadable; R06 Website missing mandatory policy pages; R07 Website not live; R08 Address proof missing or outdated; R09 Signatory details incomplete; R10 Restricted business category; R11 Declared category differs from website; R12 Compliance or sanctions screening hit; or UNCLEAR. Reply only as JSON: {\"code\": ..., \"confidence\": 0-100, \"evidence\": \"the exact words you relied on\"}. Never write any other text.",
+  "answers": {
+    "A3022": {"text": "Doc blurred and cropped, cannot verify", "code": "R05", "confidence": 95, "evidence": "blurred and cropped"},
+    "A3028": {"text": "PAN ka naam aur application ka naam match nahi kar raha", "code": "R01", "confidence": 94, "evidence": "PAN ka naam ... match nahi kar raha"},
+    "A3051": {"text": "Business category not supported by policy", "code": "R10", "confidence": 90, "evidence": "category not supported by policy"},
+    "A3081": {"text": "Signatory ka ID proof upload nahi hua", "code": "R09", "confidence": 93, "evidence": "Signatory ka ID proof"}
+  }
+}
