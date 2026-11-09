@@ -2,6 +2,8 @@
 
 Razorpay Campus AI Build-a-thon, Problem 3 (merchant onboarding and KYC drop-off recovery). Individual submission by Deeksha Das Sandeepan, BITSoM.
 
+You can check out the app here -> https://razorgo-5ts7rypg5ljjldcbhnekas.streamlit.app/
+
 An internal tool for the Razorpay Onboarding Ops team. For every stalled or rejected application it:
 
 1. **Diagnoses why it stalled** (rejection code, reviewer note, or the step where the merchant stopped).
@@ -98,3 +100,4 @@ Follow-ups go on Day 3 and Day 7. The sequence stops when the merchant replies, 
 - Accuracy check: 30 cases labelled by the builder. Cause matched 30 of 30 after 8 labels were corrected to the sheet rule (22 of 30 before), safety routes 8 of 8, routes not scored. It is a self-check, not an independent score. Labelling about 200 cases blind is the first step of the pilot.
 - 21 rows show more idle days than the account's age. They are flagged, not changed.
 - Data is synthetic. No real merchant or personal data is used.
+
